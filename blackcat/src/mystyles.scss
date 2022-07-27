@@ -1,0 +1,32 @@
+$color1: #f7d6d6;
+$color1-invert: findColorInvert($color1);
+
+$color2: #e6dfcc;
+$color2-invert: findColorInvert($color2);
+
+$color3: #ac9686;
+$color3-invert: findColorInvert($color3);
+
+$color4: #291429;
+$color4-invert: findColorInvert($color4);
+
+$custom-colors: (
+  "color1": (
+    $color1,
+    $color1-invert,
+  ),
+  "color2": (
+    $color2,
+    $color2-invert,
+  ),
+  "color3": (
+    $color3,
+    $color3-invert,
+  ),
+  "color4": (
+    $color4,
+    $color4-invert,
+  ),
+);
+
+@import "../node_modules/bulma/bulma.sass";

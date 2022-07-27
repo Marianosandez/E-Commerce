@@ -1,0 +1,153 @@
+[
+    {
+        "id": "1",
+        "name": "OREOTORTA",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/461/050/products/20210411_104218_00001-d860481418b8ad731116181485821599-640-0.png",
+        "price": "5400",
+        "stock": "",
+        "description": "to delicious",
+        "rating": "",
+        "review": "", 
+        "categories": ""
+    },{
+        "id": "2",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/461/050/products/20210905_095558_00001-347e704ea0572a5a7216308466680430-640-0.png",
+        "name": "CHOCOTORTA",
+        "price": "5400",
+        "stock": "",
+        "description": "to delicious",
+        "rating": "",
+        "review": "", 
+        "categories": ""
+    },{
+        "id": "3",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/461/050/products/img_20211204_090901-01-011-16449d751c977a278d16386216670247-640-0.jpeg    ",
+        "name": "TORTA CHEESECAKE FRUTOS ROJOS",
+        "price": "5400",
+        "stock": "",
+        "description": "to delicious",
+        "rating": "",
+        "review": "", 
+        "categories": ""
+    },{
+        "id": "4",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/461/050/products/img_20211029_130022-0121-134db25bdd26ffe6f216487459726865-320-0.jpeg",
+        "name": "TORTA KEY LIME PIE",
+        "price": "4.500",
+        "stock": "",
+        "description": "to delicious",
+        "rating": "",
+        "review": "", 
+        "categories": ""
+    },{
+        "id": "5",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/461/050/products/8932f7dc-073f-485a-a8a8-d8f39931fee5-63464c0b957675d26316522708785984-320-0.jpeg",
+        "name": "TORTA CREMOSO DE CHOCOLATE",
+        "price": "6000",
+        "stock": "",
+        "description": "to delicious",
+        "rating": "",
+        "review": "", 
+        "categories": ""
+    },{
+        "id": "6",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/461/050/products/img_20211228_164058-0131-9a839bfce492cc7cbc16487449200788-320-0.jpeg",
+        "name": "TORTA BROWNIE FRUTOS ROJOS",
+        "price": "7200",
+        "stock": "",
+        "description": "very delicious",
+        "rating": "",
+        "review": "", 
+        "categories": ""
+    },{
+        "id": "7",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/461/050/products/img_20211127_140628-01-011-66931bd85734bbf3d316381860195869-320-0.jpeg",
+        "name": "TORTA ROGEL",
+        "price": "4200",
+        "stock": "",
+        "description": "nice",
+        "rating": "",
+        "review": "", 
+        "categories": ""
+    },{
+        "id": "8",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/461/050/products/img_20220120_145419-01211-394a491069dc0ec30916436385728660-320-0.jpeg",
+        "name": "DESAYUNO AMOR",
+        "price": "5400",
+        "stock": "",
+        "description": "GOOD",
+        "rating": "",
+        "review": "", 
+        "categories": ""
+    },{
+        "id": "9",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/461/050/products/bb4bf595-d743-4e3f-a782-11c7b462150f-52b190be8805270f4316520271373438-320-0.jpeg",
+        "name": "TORTA BIZCOCHUELO DE CHOCOLATE",
+        "price": "8100",
+        "stock": "",
+        "description": "very good",
+        "rating": "",
+        "review": "", 
+        "categories": ""
+    },{
+        "id": "10",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/461/050/products/img_20211111_091455-01-011-155f488467fec0ca7416370083069729-320-0.jpeg",
+        "name": "NUMBER LETTER CAKE",
+        "price": "7500",
+        "stock": "",
+        "description": "aceptable",
+        "rating": "",
+        "review": "", 
+        "categories": ""
+    },{
+        "id": "11",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/461/050/products/20210411_103826_00001-403bfefda10b89bc1a16181484001744-320-0.png",
+        "name": "TORTA BROWNIE",
+        "price": "8500",
+        "stock": "",
+        "description": "really good",
+        "rating": "",
+        "review": "", 
+        "categories": ""
+    },{
+        "id": "12",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/461/050/products/img_20211022_122259-011-b3b155910ad16d06c116357764560895-320-0.jpeg",
+        "name": "PETITE FOURS BOX",
+        "price": "12000",
+        "stock": "",
+        "description": "nice gift",
+        "rating": "",
+        "review": "", 
+        "categories": ""
+    },{
+        "id": "13",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/461/050/products/8c6f8e08-2bb7-4cd7-ad56-9b124548b326-a6fb0686c24a635fbf16542901070302-320-0.jpeg",
+        "name": "DESAYUNO PAPA",
+        "price": "1500",
+        "stock": "",
+        "description": "breakfast",
+        "rating": "",
+        "review": "", 
+        "categories": ""
+    },{
+        "id": "14",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/461/050/products/img_20211213_150137-011-277c5f95451fba812a16394194155433-320-0.jpeg",
+        "name": "TORTA PAVLOVA",
+        "price": "9000",
+        "stock": "",
+        "description": "interesante",
+        "rating": "",
+        "review": "", 
+        "categories": ""
+    },{
+        "id": "15",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/461/050/products/20210712_171640_00001-1cc2dd088f5de9631616261211896544-320-0.png",
+        "name": "TORTA HAVANETTE",
+        "price": "14000",
+        "stock": "",
+        "description": "good for his price",
+        "rating": "",
+        "review": "", 
+        "categories": ""
+    }
+]
